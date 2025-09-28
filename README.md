@@ -2,6 +2,7 @@ ClubHub: The Campus Engagement Hub
 ClubHub is a modern, responsive web application designed to centralize and simplify the process of discovering, joining, and managing student organizations, sports teams, and campus events. It offers a personalized experience for students and streamlined management tools for club leaders.
 
 🚀 Built Under
+
 This project was developed as part of the LetsUpgrade SAP Program initiative, focusing on building real-world, scalable applications using cutting-edge technologies.
 
 ✨ Key Features
